@@ -123,5 +123,3 @@ I'm a passionate **Full Stack Developer** specializing in **Frontend Development
 - **GitHub:** [github.com/Hasib072](https://github.com/Hasib072)
 
 ---
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hasib072/Hasib072)
