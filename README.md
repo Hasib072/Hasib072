@@ -21,5 +21,5 @@ I'm a passionate **Full Stack Developer** specializing in **Frontend Development
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hasib072.Hasib072)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hasib072.hasib072)
 
