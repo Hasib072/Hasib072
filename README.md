@@ -3,10 +3,6 @@
 ## About Me
 I'm a passionate **Full Stack Developer** specializing in **Frontend Development** and **UI/UX Design**. With over two years of experience in HTML, CSS, and JavaScript, and one year working with ReactJS, I strive to create user-friendly and responsive web applications that deliver exceptional user experiences.
 
-## 🏆 Certifications
-- **AWS Academy Cloud Foundations**
-  - Gained expertise in cloud computing, AWS infrastructure, and various AWS solutions including storage, networking, security, and cloud architecture.
-
 ## 🏅 Achievements
 - **Webmaster** at IEEE Computer Society Student Branch Chapter
   - Managed and improved the chapter's website, increasing traffic and user engagement.
@@ -20,10 +16,10 @@ I'm a passionate **Full Stack Developer** specializing in **Frontend Development
 ## 📫 Get in Touch
 - **Email:** [rahmanmirhasibul@gmail.com](mailto:rahmanmirhasibul@gmail.com)
 - **Phone:** +91-8770343056
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mir-hasibul-rahman/)
+- **GitHub:** [github.com/your-github-username](https://github.com/Hasib072)
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-repo-name)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hasib072.Hasib072)
 
