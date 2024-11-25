@@ -3,13 +3,6 @@
 ## About Me
 I'm a passionate **Full Stack Developer** specializing in **Frontend Development** and **UI/UX Design**. With over two years of experience in HTML, CSS, and JavaScript, and one year working with ReactJS, I strive to create user-friendly and responsive web applications that deliver exceptional user experiences.
 
-## 🏅 Achievements
-- **Webmaster** at IEEE Computer Society Student Branch Chapter
-  - Managed and improved the chapter's website, increasing traffic and user engagement.
-  
-- **Core Associate** at SAMAGRA (Computer Science Association)
-  - Led media initiatives and a team of 20+ creatives, boosting social media engagement by 70%.
- 
 ## Languages and Tools
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -116,6 +109,13 @@ I'm a passionate **Full Stack Developer** specializing in **Frontend Development
   </a> 
 </p>
 
+## 🏅 Achievements
+- **Webmaster** at IEEE Computer Society Student Branch Chapter
+  - Managed and improved the chapter's website, increasing traffic and user engagement.
+  
+- **Core Associate** at SAMAGRA (Computer Science Association)
+  - Led media initiatives and a team of 20+ creatives, boosting social media engagement by 70%.
+ 
 ## 📫 Get in Touch
 - **Email:** [rahmanmirhasibul@gmail.com](mailto:rahmanmirhasibul@gmail.com)
 - **Phone:** +91-8770343056
